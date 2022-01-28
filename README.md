@@ -1,5 +1,6 @@
 
-### Kubernetes Quality of Service (QoS) Classes for Pods
-### Kubernetes Pod Priority
-### Kubernetes Affinity and Anti Affinity vs NodeSelector
-### Kubernetes Taints and Tolerations (Examples)
+### Quality of Service (QoS) Classes for Pods
+### Pod Priority
+### Affinity and Anti Affinity vs NodeSelector
+### Taints and Tolerations (Examples)
+### Pod Disruption Budget
